@@ -155,7 +155,7 @@ try:
         exit()
 
 
-     print("\t [+] Scanning " + site + "...\n\n")
+        print("\t [+] Scanning " + site + "...\n\n")
 
         for admin in l0gs:
             admin = admin.replace("\n","")
